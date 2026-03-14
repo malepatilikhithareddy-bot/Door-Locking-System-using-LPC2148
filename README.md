@@ -99,6 +99,14 @@ LPC2148-Door-Locking-System
 * Alarm system for multiple incorrect attempts
 
 ---
+## Code Files
+
+- main.c – Main program logic
+- lcd.h – LCD interfacing functions
+- keypad.h – Keypad input functions
+- timerdelay.h – Delay functions
+- lpc214x.h – LPC2148 register definitions
+- Startup.s – ARM7 startup assembly file
 
 ## Author
 
