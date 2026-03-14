@@ -72,7 +72,7 @@ LPC2148-Door-Locking-System
 │   └── keypad.h
 │
 ├── proteus
-│   └── door_lock_simulation.pdsprj
+│   └── door_lock_simulation.mp4
 │
 ├── images
 │   └── circuit_diagram.png
