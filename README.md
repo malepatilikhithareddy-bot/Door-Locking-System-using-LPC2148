@@ -108,6 +108,26 @@ LPC2148-Door-Locking-System
 - lpc214x.h – LPC2148 register definitions
 - Startup.s – ARM7 startup assembly file
 
+## How to Run the Simulation
+
+1. Clone or download this repository.
+
+2. Open the source code in **Keil µVision**.
+
+3. Build the project to generate the **HEX file**.
+
+4. Open the Proteus simulation file:
+   
+   doorlocking.pdsprj
+
+5. In Proteus:
+   - Double click the **LPC2148 microcontroller**
+   - Browse and select the generated **.hex file**
+
+6. Run the simulation.
+
+The keypad can be used to enter the password and observe the LCD output.
+
 ## Author
 
 **Likhitha Reddy**
